@@ -14,11 +14,8 @@ public List<String> removeAnagrams(String[] words)
 🛠 Core Concepts Used
 
 ✅ String Manipulation
-
 ✅ Sorting Characters of a String
-
-✅ Comparing Arrays
-
+✅ Comparing Array
 ✅ Basic List Operations
 
 🔢 Step-by-Step Breakdown
